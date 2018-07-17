@@ -522,12 +522,13 @@ if __name__ == '__main__':
     # cargarMedical()
     # cargarInsuranceCompany()
     # cargarSpecialties()
+    # cargarPractices()
     # cargarPractitioners()
-    cargarPractitionersError()
+    # cargarPractitionersError()
     # cargarUndergraduate()
 
 
-    # cargarPractices()
+
     #eliminarNoyelp()
     
     # cargarPracticePractitioner()
